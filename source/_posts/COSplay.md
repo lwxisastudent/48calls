@@ -3,7 +3,7 @@ title: COSplay
 tags:
   - 三角函数
 ---
-|      |(cos cos后)<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya(快)|
+|      |(第二遍cos cos后)<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya(快)|
 |--|--|
 |清早校门的旁边|      |
 |校长像个守门员|(等1秒)|
@@ -31,7 +31,7 @@ tags:
 |挥洒热汗的排练|      |
 |Cos Cos Cos|      |
 |献出最完美一面|      |
-|让我们都能变成未来人生的主演|(空12秒)|
+|让我们都能变成未来人生的主演|(空12秒 不是cos cos后)|
 |      |Tora Hi Jinzou Seni Ama Shindou Kasen(快)|
 |班花就像魔法师|(等1秒)|
 |△用双眼 在放电|omeaga ichiban omeaga ichiban oreno oreno ooo|
@@ -58,7 +58,8 @@ tags:
 |挥洒热汗的排练|      |
 |Cos Cos Cos|      |
 |献出最完美一面|      |
-|让我们都能变成未来人生的主演|pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|
+|让我们都能变成未来人生的主演|      |
+|      |pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|
 |就像是 Cosplay Cosplay|      |
 |Cosplay Cosplay|      |
 |你和我在校园|      |
@@ -66,12 +67,12 @@ tags:
 |Cos Cos Cos|      |
 |打破脑洞的局限|      |
 |Cos Cos Cos|      |
-|为学习加技能点|      |
-|合唱出青春无悔△的和弦|A~Mou Ikkai|
+|为学习加技能点|A~Mou Ikkai|
+|合唱出青春无悔△的和弦|      |
 |就像是 Cosplay Cosplay|      |
-|Cosplay Cosplay|      |
-|你和我在校△园|Hai Hai Hai Hai|
-|△就像一场角色扮演|—A~ Haihaihaihai|
+|Cosplay Cosplay|Hai Hai Hai Hai|
+|你和我在校△园|—A~ Haihaihaihai|
+|△就像一场角色扮演|      |
 |Cos Cos Cos|      |
 |挥洒热汗的排练|      |
 |Cos Cos Cos|      |
