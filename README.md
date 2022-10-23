@@ -1,0 +1,3 @@
+- 坐标BEJ聚聚一枚~ 这里是主要由本人个人维护的一个call词分享平台的开源仓库
+- 参考网络零散call本，还在线的公演会参考现场，另外还有一些个人偏好的考虑
+- 提供call词或意见请联系[此Organization](https://github.com/lwxisastudent)主页公开的邮箱，交友也可~
