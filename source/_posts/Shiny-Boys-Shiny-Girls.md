@@ -8,7 +8,7 @@ abbrlink: 63785
 |--|--|
 |每天升起的太阳|      |
 |给大地铺满了阳光|O-Re-No OOO|
-|如果下雨别抓狂|omeaga ichiban omeaga ichiban |
+|如果下雨别抓狂|omeaga ichiban omeaga ichiban |
 |哪怕跌倒了又怎样|oreno oreno OOO|
 |给自己插上翅膀|Kawaii Kawaii Choukawaii |
 |别害怕向高峰飞翔|OOO Kawaii Choukawaii|

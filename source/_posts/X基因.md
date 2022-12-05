@@ -1,7 +1,7 @@
 abbrlink: 19205
 title: X基因
 tags:
-  - 梦想的旗帜
+  - 梦想的旗帜,33
 ---
 > 别称：F to T、C基因
 

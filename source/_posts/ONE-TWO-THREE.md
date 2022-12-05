@@ -1,7 +1,7 @@
 ---
 title: ONE TWO THREE
 tags:
-  - 梦想的旗帜
+  - 梦想的旗帜,32
 abbrlink: 8961
 ---
 |      |U~Hai U~Hai U~Hai U~Hai<br>Taiga*4 Taiga Faiya<br>Saiba Faiba Daiba Baiba Jya-jya Faibo Waipa|
