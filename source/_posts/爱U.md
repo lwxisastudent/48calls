@@ -1,8 +1,8 @@
 ---
 title: 爱U
 tags:
-  - 彼此的未来
-  - Idol.S
+  - 彼此的未来,25
+  - Idol.S,25
 abbrlink: 61698
 ---
 |      |UHai UHai UHai UHai<br>A~Yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|

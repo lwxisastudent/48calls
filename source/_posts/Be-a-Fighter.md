@@ -1,7 +1,7 @@
 abbrlink: 61277
 title: Be a Fighter
 tags:
-  - B A FIGHTER
+  - B A FIGHTER,11
 ---
 |      |Hai Hai Hai Hai<br>A~Yossha Ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|

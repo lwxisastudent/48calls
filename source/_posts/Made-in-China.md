@@ -1,7 +1,7 @@
 abbrlink: 20443
 title: Made in China
 tags:
-  - Fiona.N
+  - Fiona.N,11
 ---
 |      |(第一个"嘿"后)Hajimaruyo Hajimaruyo<br>Myo-hontusuke ga-Hajimaruyo<br>Myo-hontusuke Kasen Tobi Jyokyo<br>Jyajya Faibo Waipa<br>U-Hai x4<br>A~ yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinzou Seni Ama Shindou Kasen(快)|
 |--|--|

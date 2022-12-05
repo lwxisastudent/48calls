@@ -1,7 +1,7 @@
 abbrlink: 62017
 title: Fire X
 tags:
-  - 命运的X号
+  - 命运的X号,43
 ---
 |fire fire fire fire X△*2|fire fire fire fire X|
 |--|--|

@@ -1,7 +1,7 @@
 ---
 title: Sing together
 tags:
-  - 遗忘的国度
+  - 遗忘的国度,12
 abbrlink: 54357
 ---
 |      |pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|Hajimaruyo Hajimaruyo<br>Myo-hontusuke ga-Hajimaruyo<br>Myo-hontusuke Kasen Tobi Jyokyo<br>Jyajya Faibo Waipa|

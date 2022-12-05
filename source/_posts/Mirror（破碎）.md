@@ -1,7 +1,7 @@
 abbrlink: 49877
 title: Mirror（破碎）
 tags:
-  - 幻镜
+  - 幻镜,14
 ---
 |      |Taiga*12 Taiga Faiya<br>Saiba Faiba Daiba Baiba Jya-jya Faibo Waipa|
 |--|--|

@@ -1,7 +1,7 @@
 ---
 title: BINGO!
 tags:
-  - 我的太阳
+  - 我的太阳,42
 abbrlink: 63874
 ---
 |      |      |

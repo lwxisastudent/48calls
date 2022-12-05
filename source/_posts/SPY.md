@@ -1,7 +1,7 @@
 abbrlink: 11021
 title: SPY
 tags:
-  - B A FIGHTER
+  - B A FIGHTER,25
 ---
 |      |      |
 |--|--|

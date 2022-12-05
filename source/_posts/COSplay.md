@@ -1,7 +1,7 @@
 abbrlink: 22730
 title: COSplay
 tags:
-  - 三角函数
+  - 三角函数,12
 ---
 |      |(第二遍cos cos后)<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya(快)|
 |--|--|

@@ -1,7 +1,7 @@
 abbrlink: 28270
 title: Battle Cry
 tags:
-  - 命运的X号
+  - 命运的X号,22
 ---
 |      |OOO<br>UHai UHai UHai UHai~Jya Jya<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)|      |
 |--|--|--|

@@ -1,7 +1,7 @@
 abbrlink: 26171
 title: 迷（Secret）
 tags:
-  - 幻镜
+  - 幻镜,12
 ---
 
 |      |      |

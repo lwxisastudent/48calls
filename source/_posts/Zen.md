@@ -1,7 +1,7 @@
 abbrlink: 44938
 title: Zen
 tags:
-  - 三角函数
+  - 三角函数,42
 ---
 |      |UHai UHai UHai UHai<br>A~ Jya jya<br>Taiga Faiya Saiba Faiba Daiba  Baiba Jya-jya<br>Faibo Waipa|
 |--|--|

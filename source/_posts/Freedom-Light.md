@@ -1,7 +1,7 @@
 ---
 title: Freedom Light
 tags:
-  - 幻镜
+  - 幻镜,23
 abbrlink: 47944
 ---
 |再靠近一点|开花掌|

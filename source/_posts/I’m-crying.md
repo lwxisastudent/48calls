@@ -1,12 +1,12 @@
 abbrlink: 51187
 title: I’m crying
 tags:
-  - We are the BEJ
+  - We are the BEJ,41
 ---
 |      |Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |黑色的棒球帽 搭配指甲的色彩|A~OOO|
-|带上闪亮墨镜 别以为很奇怪|A~OOO|
+|带上闪亮墨镜 别以为很奇怪|A~OOO|
 |装酷是我招牌|A~OOO|
 |那些看不懂的人不会明白|ChouzetsuKawaii OOO|
 |走在夜深街头 电流超速的很快|A~OOO|

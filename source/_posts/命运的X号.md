@@ -1,7 +1,7 @@
 abbrlink: 38021
 title: 命运的X号
 tags:
-  - 命运的X号
+  - 命运的X号,14
 ---
 |      |JinzouFaiya FaiboWaipa<br>Taiga Taiga TatatataTaiga<br>ChapeApeKaraKina ChapeApeKaraKina<br>Myo-hontusuke P Waipa<br>Faiya Faiya ToraToraKaraKina<br>ChapeApeFama AmaAmaJyasupa<br>ToraTaiga ToraTaiga<br>JinzouSeni Yetaiga<br>UHai UHai UHai UHai A~Taiga Faiya<br>Saiba Faiba Daiba Baiba Jya-jya Faibo Waipa|      |
 |--|--|--|

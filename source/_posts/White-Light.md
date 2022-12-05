@@ -1,7 +1,7 @@
 ---
 title: White Light
 tags:
-  - 遗忘的国度
+  - 遗忘的国度,32
 abbrlink: 43262
 ---
 |      |      |
