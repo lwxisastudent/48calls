@@ -2,7 +2,9 @@
 Thumbs.db
 db.json
 *.log
-node_modules/
+node_modules/*
+!node_modules/hexo
+!node_modules/hexo/*
 public/
 .deploy*/
 _multiconfig.yml
