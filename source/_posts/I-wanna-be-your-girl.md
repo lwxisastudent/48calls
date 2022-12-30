@@ -39,7 +39,7 @@ tags:
 |接着要能够照顾我|      |
 |说出你多想要我|      |
 |说出我爱你|我爱你|
-|Hai|Hai—Hai—Hai—Hai—<br>Hai Hai Hai Hai<br>Hai*12 Hai!|
+|Hai|Hai—Hai—Hai—Hai—<br>U'Oi U'Oi U'Oi U'Oi<br>Hai*12 Hai!|
 |      |      |
 |准备好了我来烦你|      |
 |接下来要准备疼我|      |

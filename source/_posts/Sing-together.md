@@ -6,7 +6,7 @@ abbrlink: 54357
 ---
 |      |pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|Hajimaruyo Hajimaruyo<br>Myo-hontusuke ga-Hajimaruyo<br>Myo-hontusuke Kasen Tobi Jyokyo<br>Jyajya Faibo Waipa|
 |--|--|--|
-|      |UHai UHai UHai UHai <br>A~Jyajya<br>Raion Tora Chita Ratarata Ratora-ta<br>Sai Goriria Zou Sago-zo Sago-zo<br>Eiyou Eiyou Eiyou Eiyou(奇偶拍不同人喊)<br>Kapusaishin tte shitteru|      |
+|      |U'Oi U'Oi U'Oi U'Oi <br>A~Jyajya<br>Raion Tora Chita Ratarata Ratora-ta<br>Sai Goriria Zou Sago-zo Sago-zo<br>Eiyou Eiyou Eiyou Eiyou(奇偶拍不同人喊)<br>Kapusaishin tte shitteru|      |
 |阳光掠过海平面的时刻|A~OOO|      |
 |那束光映射出船身的轮廓|Seikai No Ichiban Kawaii OOO|      |
 |升起了船帆一路前行着|OOO 最可爱 超绝可爱 OOO|      |

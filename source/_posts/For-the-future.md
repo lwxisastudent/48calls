@@ -15,7 +15,7 @@ tags:
 |未来的符号 我们来创造|O~PP O~PP|
 |新的格局我来主导 wow|Yetaiga|
 |那束光 黑暗闪烁等待黎明照亮着未来|O~Fu Fu|
-|一起站上 无限可能世界的舞台|Ye Ye Ye Ye Yetaiga Faibo Waipa<br>【或】Hai Hai Hai Hai A~HaiHaiHaiHai|
+|一起站上 无限可能世界的舞台|Ye Ye Ye Ye Yetaiga Faibo Waipa<br>【或】U'Oi U'Oi U'Oi U'Oi A~HaiHaiHaiHai|
 |人生就是场比赛|      |
 |每一次都要精彩|      |
 |梦想才会被释放打开|      |

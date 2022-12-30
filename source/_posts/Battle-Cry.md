@@ -2,8 +2,9 @@ abbrlink: 28270
 title: Battle Cry
 tags:
   - 命运的X号,22
+  - UNIVERSE,53
 ---
-|      |OOO<br>UHai UHai UHai UHai~Jya Jya<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)|      |
+|      |OOO<br>U'Oi U'Oi U'Oi U'Oi~Jya Jya<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)|      |
 |--|--|--|
 |睡梦中醒来 眼前的画面|      |      |
 |场景△瞬间被切换|Oreno OOO|      |
@@ -20,13 +21,13 @@ tags:
 |△我们会是彼此身后的靠山（爱会永远存在）|Taiga Faiya Saiba Faiba<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya(二倍)|Tora Hi Jinzou Seni<br>Tora Hi Jinzou Seni Ama Shindou Kasen(二倍)|
 |别放弃 勇敢的女孩  为梦而战|O~Fu Fu|      |
 |一起追寻未知的未来|PP Fuwa Fuwa|      |
-|所有△危在旦夕的考验 我们携手推翻|Haisen Haiseno Hai Hai HaiHaiHaiHai|      |
+|所有△危在旦夕的考验 我们携手推翻|Haisen Haiseno Hey Hey HeyHeyHeyHey|      |
 |别放弃一千遍鼓励 为你呐喊|O~Fu Fu|      |
 |用爱破晓 艰险和阻碍|PP Fuwa Fuwa|      |
 |(一起把灵魂的火全部都点燃 心跳与你同在)|      |      |
 | 把灵魂的火全部都点燃|      |      |
 |心跳与你同在|      |      |
-|      |UHai UHai UHai UHai~Jya Jya<br>Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo<br>ChapeApeKaraKinaRaraTousukeUisupe(二倍)(或ChapeApeKaraKina Faibo Waipa)|      |
+|      |U'Oi U'Oi U'Oi U'Oi~Jya Jya<br>Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo<br>ChapeApeKaraKinaRaraTousukeUisupe(二倍)(或ChapeApeKaraKina Faibo Waipa)|      |
 |远方和希望暂时封印在|      |      |
 |暗夜△里无法施展|Oreno OOO|      |
 |△眼底的光 能把天空重新撕开 让胆怯退散△|OOO OOO 超绝Kawaii OOO|      |
@@ -41,7 +42,7 @@ tags:
 |△我们会是彼此身后的靠山 （爱会永远存在）|Tora Hi Jinzou Seni<br>Tora Hi Jinzou Seni Ama Shindou Kasen(二倍)|Chape Ape Kara Kina<br>Chape Ape Kara Kina Rara Tusuke Myohontusuke(二倍)|
 |别放弃 勇敢的女孩  为梦而战|O~Fu Fu|      |
 |一起追寻 未知的未来|PP Fuwa Fuwa|      |
-|所有△危在旦夕的考验|Haisen Haiseno Hai Hai HaiHaiHaiHai|      |
+|所有△危在旦夕的考验|Haisen Haiseno Hey Hey HeyHeyHeyHey|      |
 |我们携手推翻|      |      |
 |别放弃 一千遍鼓励 为你呐喊|O~Fu Fu|      |
 |用爱破晓艰险和阻碍|PP Fuwa Fuwa|      |

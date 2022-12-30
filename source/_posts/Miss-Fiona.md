@@ -3,7 +3,7 @@ title: Miss Fiona
 tags:
   - Fiona.N,14
 ---
-|      |Uhai Uhai Uhai Uhai<br>A~yooshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Faibo Waipa|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~yooshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Faibo Waipa|
 |--|--|
 |纯真的脸颊|ooo?|
 |雪白的美丽无瑕WuWu~|ooo|

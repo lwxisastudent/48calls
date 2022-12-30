@@ -54,7 +54,7 @@ tags:
 |转眼即逝的△年轻|Fu~Fu~|
 |有恃无恐的△相信|Fu~Fu~|
 |这谎话我好真心|      |
-|为什么你不△听|(UHai UHai UHai UHai<br>A~rasuto ikuzo)<br>Chape Ape Kara Kina Rara TusukeMyo-hontusuke|
+|为什么你不△听|(U'Oi U'Oi U'Oi U'Oi<br>A~rasuto ikuzo)<br>Chape Ape Kara Kina Rara TusukeMyo-hontusuke|
 |      |      |
 |尽情嘲弄 人们的热情汹涌|Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya(二倍)|
 |尽情嘲弄 自己的热情汹涌|Tora Hi Jinzou Seni Ama Shindou Kasen(二倍)<br>Tobi Jyo-kyo|

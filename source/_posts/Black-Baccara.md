@@ -2,6 +2,7 @@
 title: Black Baccara
 tags:
   - 遗忘的国度,25
+  - 无限∞（捌）,22
 abbrlink: 56254
 ---
 

@@ -4,7 +4,7 @@ tags:
   - 梦想的旗帜,14
 abbrlink: 63785
 ---
-|      |U~Hai U~Hai U~Hai U~Hai<br>A~yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |每天升起的太阳|      |
 |给大地铺满了阳光|O-Re-No OOO|

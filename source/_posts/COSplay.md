@@ -16,7 +16,7 @@ tags:
 |是一种怎样的体验|Yetaiga Faibo Waipa|
 |就像是 Cosplay Cosplay|      |
 |Cosplay Cosplay|      |
-|你和我在校△园|Hai Hai Hai Hai|
+|你和我在校△园|U'Oi U'Oi U'Oi U'Oi|
 |△就像一场角色扮演|—A~ Haihaihaihai|
 |Cos Cos Cos|      |
 |打破脑洞的局限|      |
@@ -25,7 +25,7 @@ tags:
 |合唱出青春无悔△的和弦|A~Mou Ikkai|
 |就像是 Cosplay Cosplay|      |
 |Cosplay Cosplay|      |
-|你和我在校△园|Hai Hai Hai Hai|
+|你和我在校△园|U'Oi U'Oi U'Oi U'Oi|
 |就像一场角色扮演|—A~ Haihaihaihai|
 |Cos Cos Cos|      |
 |挥洒热汗的排练|      |
@@ -43,7 +43,7 @@ tags:
 |要学悟空七十二变|Yetaiga Faibo Waipa|
 |就像是 Cosplay Cosplay|      |
 |Cosplay Cosplay|      |
-|你和我在校△园|Hai Hai Hai Hai|
+|你和我在校△园|U'Oi U'Oi U'Oi U'Oi|
 |△就像一场角色扮演|—A~ Haihaihaihai|
 |Cos Cos Cos|      |
 |打破脑洞的局限|      |
@@ -52,7 +52,7 @@ tags:
 |合唱出青春无悔△的和弦|A~Mou Ikkai|
 |就像是 Cosplay Cosplay|      |
 |Cosplay Cosplay|      |
-|你和我在校△园|Hai Hai Hai Hai|
+|你和我在校△园|U'Oi U'Oi U'Oi U'Oi|
 |△就像一场角色扮演|—A~ Haihaihaihai|
 |Cos Cos Cos|      |
 |挥洒热汗的排练|      |
@@ -70,7 +70,7 @@ tags:
 |为学习加技能点|A~Mou Ikkai|
 |合唱出青春无悔△的和弦|      |
 |就像是 Cosplay Cosplay|      |
-|Cosplay Cosplay|Hai Hai Hai Hai|
+|Cosplay Cosplay|U'Oi U'Oi U'Oi U'Oi|
 |你和我在校△园|—A~ Haihaihaihai|
 |△就像一场角色扮演|      |
 |Cos Cos Cos|      |

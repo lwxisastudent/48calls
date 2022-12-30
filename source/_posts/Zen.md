@@ -5,7 +5,7 @@ tags:
 ---
 > 别称：禅
 
-|      |UHai UHai UHai UHai<br>A~ Jya jya<br>Taiga Faiya Saiba Faiba Daiba  Baiba Jya-jya<br>Faibo Waipa|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~ Jya jya<br>Taiga Faiya Saiba Faiba Daiba  Baiba Jya-jya<br>Faibo Waipa|
 |--|--|
 |刀锋般锐利的谣言|A A A OOO|
 |试探性逼近我底线|A A A OOO|
@@ -26,7 +26,7 @@ tags:
 |天降大任|      |
 |必先有考验|      |
 |越危险越向前|      |
-|△如果你想要的那份甜|Hai Hai Hai Hai|
+|△如果你想要的那份甜|U'Oi U'Oi U'Oi U'Oi|
 |△先尝百苦 再来蜕变|—A~HaiHaiHaiHai|
 |距离最短|      |
 |未必是直线|      |
@@ -54,7 +54,7 @@ tags:
 |天降大任|      |
 |必先有考验|      |
 |越危险越向前|      |
-|△如果你想要的那份甜|Hai Hai Hai Hai|
+|△如果你想要的那份甜|U'Oi U'Oi U'Oi U'Oi|
 |△先尝百苦 再来蜕变|—A~HaiHaiHaiHai|
 |距离最短|      |
 |未必是直线|      |

@@ -4,7 +4,7 @@ tags:
   - 美丽世界,11
 abbrlink: 49473
 ---
-|      |UHai UHai UHai UHai<br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinou Seni <br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinou Seni <br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |走开 这是谁的地盘|OOO|
 |搞明白 这里被谁主宰|超绝Kawaii OOO|
@@ -24,7 +24,7 @@ abbrlink: 49473
 |改变所有未来|      |
 |我是我 就是我|      |
 |不需要崇拜 结界都打开|      |
-|Oh Team HII 到来|(UHai UHai UHai UHai)<br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinou Seni Ama ShindouKasenTobiJyo-kyo|
+|Oh Team HII 到来|(U'Oi U'Oi U'Oi U'Oi)<br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinou Seni Ama ShindouKasenTobiJyo-kyo|
 |      |      |
 |我们 已技痒到难耐|OOO|
 |敢进犯 就等待我奉还|超绝Kawaii OOO|

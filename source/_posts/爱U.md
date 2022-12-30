@@ -5,7 +5,7 @@ tags:
   - Idol.S,25
 abbrlink: 61698
 ---
-|      |UHai UHai UHai UHai<br>A~Yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~Yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |风 吹乱了发△ 弹着吉他△|OOO OOO|
 |落叶把天空涂鸦|超绝Kawaii OOO|
