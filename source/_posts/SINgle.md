@@ -8,7 +8,7 @@ tags:
 |晨光照亮整个天空|OOO|      |
 |制服口袋 绣着未知△的梦|OOO|      |
 |期待新的生活|OOO|Omaegaichiban Omaegaichiban |
-|△虽然脑中 一片空白|—O-re-no OOO|Oreno Oreno OOO|
+|△虽然脑中 一片空白|—O-re-no OOO|O-reno Oreno OOO|
 |夜里 满天的流星|OOO|Kawaii Kawaii ChouKawaii|
 |总会有 那一颗专属△于你|OOO|OOO Kawaii ChouKawaii|
 |陪着你 披荆斩棘|OOO|Iya Iya IyaIyaIya|
@@ -28,7 +28,7 @@ tags:
 |晨光照亮整个天空|OOO|      |
 |制服口袋 绣着未知△的梦|OOO|      |
 |期待新的生活|OOO|Omaegaichiban Omaegaichiban |
-|△虽然脑中 一片空白|—O-re-no OOO|Oreno Oreno OOO|
+|△虽然脑中 一片空白|—O-re-no OOO|O-reno Oreno OOO|
 |夜里 满天的流星|OOO|Kawaii Kawaii ChouKawaii|
 |总会有 那一颗专属△于你|OOO|OOO Kawaii ChouKawaii|
 |陪着你 披荆斩棘|OOO|Iya Iya IyaIyaIya|

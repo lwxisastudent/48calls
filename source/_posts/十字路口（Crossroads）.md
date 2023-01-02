@@ -1,5 +1,5 @@
 ---
-title: 十字路口
+title: 十字路口（Crossroads）
 tags:
   - 幻镜,34
 abbrlink: 38247
@@ -7,9 +7,9 @@ abbrlink: 38247
 |      |Iitai Kotoga aru nda yo<br>yappari OOO wa kawaii yo<br>suki suki daisuki yappa suki<br>Five Foue Three Two One Go<br>U'Oi U'Oi U'Oi U'Oi<br>A~Jya-jya<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Faibo Waipa|
 |--|--|
 |已哭个够 尝个够 分离△的感受|O-re-no OOO|
-|还看不透 参不透 存在和乌有|Omaegaichiban Omaegaichiban Oreno Oreno OOO|
+|还看不透 参不透 存在和乌有|Omaegaichiban Omaegaichiban O-reno Oreno OOO|
 |想玩个够 看个够 炫目的宇宙|Kawaii Kawaii ChouKawaii OOO Kawaii ChouKawaii|
-|谁能只挥一挥衣袖 全都不带走|Iyaiyaiya Matematemate Oreno Oreno OOO|
+|谁能只挥一挥衣袖 全都不带走|Iyaiyaiya Matematemate O-reno Oreno OOO|
 |站在十字道路口|O~PP O~PP|
 |无数前人流过泪的街头|O~PP O~PP|
 |请跟着灵魂走|      |
@@ -39,7 +39,7 @@ abbrlink: 38247
 |我知道向左或向右|O~Fu Fu|
 |都有海市蜃楼|PP Fuwa Fuwa|
 |前人曾笑过 哭过 探索 坚守的这条路|      |
-|绝不回头|U'Oi U'Oi U'Oi U'Oi<br>A~Jyaikuzo<br>Oreto Omaeno Akaiito<br>Oreno Oreno OOO<br>Iyaiyaiyaiya Iyaiyaiyaiya O-re-no OOO<br>Yume Ase Susume<br>Sail Your Dream Team SII(张梦慧)或We are the Best Team SII|
+|绝不回头|U'Oi U'Oi U'Oi U'Oi<br>A~Jyaikuzo<br>Oreto Omaeno Akaiito<br>O-reno Oreno OOO<br>Iyaiyaiyaiya Iyaiyaiyaiya O-re-no OOO<br>Yume Ase Susume<br>Sail Your Dream Team SII(张梦慧)或We are the Best Team SII|
 |      |      |
 |此刻需要我们携起手|正逆混沌|
 |决不让任何一人退后|      |

@@ -1,5 +1,5 @@
 ---
-title: Dream is Power
+title: Dream is Power（梦）
 tags:
   - 幻镜,42
 abbrlink: 20677

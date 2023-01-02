@@ -1,5 +1,5 @@
 abbrlink: 41918
-title: 继承者
+title: 继承者（The Key）
 tags:
   - 幻镜,13
 ---
@@ -39,7 +39,7 @@ tags:
 |有你的召唤心火不灭|      |      |
 |用力在呼喊勇敢依然|Haiseno Haiseno Hey Hey HeyHeyHeyHey|Haiseno Haiseno Hey Hey HeyHeyHeyHey|
 |遥不可及的多少个光年|      |      |
-|无尽的视界飞蛾扑火再重演|(林修红线)U'Oi U'Oi U'Oi U'Oi<br>A~ Madaikanai<br>U'Oi U'Oi U'Oi U'Oi<br>A~ Madaikanai<br>Itsuikuno Imadeshyo<br>A~Jya-ikuzo<br>Oreto Omaeno Akaiito<br>O-re-no Oreno OOO<br>IyaIyaIyaIya IyaIyaIyaIya<br>O-Re-No OOO<br>Yume Ase Susume<br>We are the best Team SII|omaeni deaeta anohi kara<br>muneni dakuwa koigokoro<br>ima omoeruwa omaedake<br>sa~a sasageyou daitenshi<br>Marufoi Marufoi Marufoi Marufoi<br>A~P Gurifindoru<br>Akushio Redakuto Rumosu<br>Winga-diamu Reviosa<br>Anata no wa Reviosa<br>Ekusupekuto Patoronamu<br>Tormuridoru Tomuridoru<br>Vorudemo-to tte Shitteru|
+|无尽的视界飞蛾扑火再重演|(林修红线)U'Oi U'Oi U'Oi U'Oi<br>A~ Madaikanai<br>U'Oi U'Oi U'Oi U'Oi<br>A~ Madaikanai<br>Itsuikuno Imadeshyo<br>A~Jya-ikuzo<br>Oreto Omaeno Akaiito<br>O-reno Oreno OOO<br>IyaIyaIyaIya IyaIyaIyaIya<br>O-Re-No OOO<br>Yume Ase Susume<br>We are the best Team SII|omaeni deaeta anohi kara<br>muneni dakuwa koigokoro<br>ima omoeruwa omaedake<br>sa~a sasageyou daitenshi<br>Marufoi Marufoi Marufoi Marufoi<br>A~P Gurifindoru<br>Akushio Redakuto Rumosu<br>Winga-diamu Reviosa<br>Anata no wa Reviosa<br>Ekusupekuto Patoronamu<br>Tormuridoru Tomuridoru<br>Vorudemo-to tte Shitteru|
 |      |      |      |
 |是谁的叹息等待被触碰的掌心+A35|正逆混沌|正逆混沌|
 |你奔赴黑夜|      |      |

@@ -1,17 +1,17 @@
 abbrlink: 27569
 title: Pay Attention
 tags:
-  - HAKUNA MATATA,25
+  - HAKUNA MATATA,24
 ---
 |      |      |
 |--|--|
 |准备好最美的妆穿上战衣|A~OOO|
 |高傲的抬起头眼神很坚定|A~OOO|
-|我迈出的步伐 足迹|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|我迈出的步伐 足迹|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |朝着那梦 想永不会停|      |
 |我的可爱中带着无限魅力|A~OOO|
 |我的魅力会散发无限魔力|A~OOO|
-|我要让所有的 目光|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|我要让所有的 目光|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |变成焦点 绽放无限美丽|      |
 |让 时间都静 止|O~PP O~PP|
 |现在开始一起集中 火力|O~PP O~PP|
@@ -27,11 +27,11 @@ tags:
 |Pay attention to me|      |
 |用眼神锁定你有没有动心|A~OOO|
 |快打开心门让我带你一起|A~OOO|
-|你会看到新的世界|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|你会看到新的世界|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |有我的陪伴不再有恐惧|      |
 |过去的汗水泪水全都擦掉|A~OOO|
 |要整装待发保持全新面貌|A~OOO|
-|曾许下的愿望|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|曾许下的愿望|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |现在让我来帮|      |
 |你全都实现好|O~PP O~PP|
 |让 时间都静 止|O~PP O~PP|

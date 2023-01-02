@@ -8,11 +8,11 @@ tags:
 |纯真的脸颊|ooo?|
 |雪白的美丽无瑕WuWu~|ooo|
 |眨个眼突破时空|—omaegaichiban omaegaichiban |
-|哪都能光速到达|—oreno oreno ooo|
+|哪都能光速到达|—O-reno Oreno ooo|
 |古灵精的她|ooo|
 |看不透的萌萌傻傻|ooo|
 |眼珠子转动奇幻的魔法|—omaegaichiban omaegaichiban |
-|就要开始 La~|—oreno oreno ooo|
+|就要开始 La~|—O-reno Oreno ooo|
 |△耍一点△小聪明△△|wu~; PP; wu~; PP（上升气流）|
 |△制造点△神秘惊喜△|wu~; PP; jyajya|
 |△别怪她总是爱说话|—Chape Ape Kara Kina Kara Apa Myohontusuke|
@@ -28,11 +28,11 @@ tags:
 |纯真的脸颊|ooo|
 |雪白的美丽无瑕WuWu~|ooo|
 |眨个眼突破时空|—omaegaichiban omaegaichiban |
-|哪都能光速到达|—oreno oreno ooo|
+|哪都能光速到达|—O-reno Oreno ooo|
 |古灵精的她|ooo|
 |看不透的萌萌傻傻|ooo|
 |眼珠子转动奇幻的魔法|—omaegaichiban omaegaichiban |
-|就要开始 La~|—oreno oreno ooo|
+|就要开始 La~|—O-reno Oreno ooo|
 |△耍一点△小聪明△△|wu~; PP; wu~; PP|
 |△制造点△神秘惊喜△|wu~; PP; jyajya|
 |△别怪她总是爱说话|—Chape Ape Kara Kina Kara Apa Myohontusuke|

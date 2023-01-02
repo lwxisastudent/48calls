@@ -1,5 +1,5 @@
 ---
-title: 初眠
+title: 初眠（Ring）
 tags:
   - 幻镜,26
 abbrlink: 51458

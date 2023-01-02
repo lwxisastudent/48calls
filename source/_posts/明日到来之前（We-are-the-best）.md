@@ -1,5 +1,5 @@
 ---
-title: 明日到来之前
+title: 明日到来之前（We are the best）
 tags:
   - 幻镜,41
 abbrlink: 59496

@@ -3,7 +3,7 @@ title: X基因
 tags:
   - 梦想的旗帜,33
 ---
-> 别称：F to T、C基因
+> 别称：F to T、C基因、J基因、BEJ基因
 
 |      |Bi Bobo Bibobi*7+拍掌|
 |--|--|

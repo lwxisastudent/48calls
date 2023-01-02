@@ -4,6 +4,7 @@ tags:
   - We are the BEJ,41
   - 前所未有,41
   - 因为喜欢你,32
+  - 因为喜欢你,62
 ---
 |      |Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|

@@ -1,5 +1,5 @@
 ---
-title: Freedom Light
+title: Freedom Light（自由之光）
 tags:
   - 幻镜,23
 abbrlink: 47944

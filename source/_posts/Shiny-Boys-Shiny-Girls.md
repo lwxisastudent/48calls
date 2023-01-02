@@ -8,8 +8,8 @@ abbrlink: 63785
 |--|--|
 |每天升起的太阳|      |
 |给大地铺满了阳光|O-Re-No OOO|
-|如果下雨别抓狂|omeaga ichiban omeaga ichiban |
-|哪怕跌倒了又怎样|oreno oreno OOO|
+|如果下雨别抓狂|Omeaga ichiban Omeaga ichiban |
+|哪怕跌倒了又怎样|O-reno Oreno OOO|
 |给自己插上翅膀|Kawaii Kawaii Choukawaii |
 |别害怕向高峰飞翔|OOO Kawaii Choukawaii|
 |遇见烦恼别紧张|Iya Iya IyaIyaIya |
@@ -32,8 +32,8 @@ abbrlink: 63785
 |      |      |
 |世界像气泡一样|      |
 |缤纷的色彩是天堂|O-Re-No OOO|
-|彩虹升起的地方|omeaga ichiban omeaga ichiban |
-|有荆棘我们一起闯|oreno oreno OOO|
+|彩虹升起的地方|Omeaga ichiban Omeaga ichiban |
+|有荆棘我们一起闯|O-reno Oreno OOO|
 |生命其实很漫长|Kawaii Kawaii Choukawaii |
 |趁现在心依然滚烫|OOO Kawaii Choukawaii|
 |追逐天空的力量|Iya Iya IyaIyaIya |

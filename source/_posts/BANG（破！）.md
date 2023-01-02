@@ -1,5 +1,5 @@
 abbrlink: 52479
-title: BANG!
+title: BANG!（破！）
 tags:
   - 幻镜,33
 ---

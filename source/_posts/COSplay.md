@@ -7,10 +7,10 @@ tags:
 |--|--|
 |清早校门的旁边|      |
 |校长像个守门员|(等1秒)|
-|△在蹲点 好危险|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|△在蹲点 好危险|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |班主任教室里面|      |
 |像大魔王的嘴脸|(等1秒)|
-|△又突击 来测验|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|△又突击 来测验|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |△看科代们 △都是闪电侠|O~PP O~PP|
 |一转眼 通通提前交了卷|      |
 |是一种怎样的体验|Yetaiga Faibo Waipa|
@@ -34,10 +34,10 @@ tags:
 |让我们都能变成未来人生的主演|(空12秒 不是cos cos后)|
 |      |Tora Hi Jinzou Seni Ama Shindou Kasen(快)|
 |班花就像魔法师|(等1秒)|
-|△用双眼 在放电|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|△用双眼 在放电|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |上课老师刚出现|      |
 |同桌就像睡公主|(等1秒)|
-|△入了眠 睡得甜|omeaga ichiban omeaga ichiban oreno oreno ooo|
+|△入了眠 睡得甜|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |△还有时间 △要努力冲线|O~PP O~PP|
 |把握好现在去改变明天|      |
 |要学悟空七十二变|Yetaiga Faibo Waipa|

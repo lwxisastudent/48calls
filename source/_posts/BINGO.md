@@ -2,6 +2,7 @@
 title: BINGO!
 tags:
   - 我的太阳,42
+  - Miss Camellia 成长,12
 abbrlink: 63874
 ---
 |      |      |

@@ -7,10 +7,10 @@ tags:
 |--|--|
 |蓝蓝的天 勇敢向前|ooo|
 |热闹的街 第一次的见面|ooo|
-|我们不怕危险(有你就不怕wow)|—omeaga ichiban omeaga ichiban oreno oreno ooo|
+|我们不怕危险(有你就不怕wow)|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |你我诺言 态度坚决|—Kawaii Kawaii chouKawaii |
 |绝不后悔oh不管多少年|—ooo Kawaii chouKawaii|
-|期待美好明天这个感动瞬间|—omeaga ichiban omeaga ichiban oreno oreno ooo|
+|期待美好明天这个感动瞬间|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |说话很直接(不想改变)|O~pp O~pp|
 |永远在身边(永远在身边)|O~pp O~pp|
 |△同时肩并肩是你让我这么耀眼|Chape Ape Tora Hi Myohontusuke Jinzou Faiya Faibo Waipa(快)|
@@ -34,10 +34,10 @@ tags:
 |      |U'Oi U'Oi U'Oi U'Oi<br>A~Yossha Ikuzo<br>Tora Hi Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo|
 |蓝蓝的天勇敢向前|ooo|
 |热闹的街第一次的见面|ooo|
-|我们不怕危险(有你就不怕wow)|—omeaga ichiban omeaga ichiban oreno oreno ooo|
+|我们不怕危险(有你就不怕wow)|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |你我诺言态度坚决|—Kawaii Kawaii chouKawaii |
 |绝不后悔oh不管多少年|—ooo Kawaii chouKawaii|
-|期待美好明天这个感动瞬间|—omeaga ichiban omeaga ichiban oreno oreno ooo|
+|期待美好明天这个感动瞬间|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |说话很直接(不想改变)|O~pp O~pp|
 |永远在身边(永远在身边)|O~pp O~pp|
 |△同时肩并肩是你让我这么耀眼|Chape Ape Tora Hi Myohontusuke Jinzou Faiya Faibo Waipa(快)<br>Yetaiga|

@@ -9,12 +9,12 @@ tags:
 |--|--|
 |刀锋般锐利的谣言|A A A OOO|
 |试探性逼近我底线|A A A OOO|
-|谁用△拙劣表演|omeaga ichiban omeaga ichiban|
-|△刺伤我的双眼|—oreno oreno ooo|
+|谁用△拙劣表演|Omeaga ichiban Omeaga ichiban|
+|△刺伤我的双眼|—O-reno Oreno ooo|
 |厌倦了被任意挑选|A A A OOO|
 |压力缠绕在我的肩|A A A OOO|
-|想戴△上个假面|omeaga ichiban omeaga ichiban|
-|拒绝再去争辩|—oreno oreno ooo|
+|想戴△上个假面|Omeaga ichiban Omeaga ichiban|
+|拒绝再去争辩|—O-reno Oreno ooo|
 |保留那些汗水|O~P |
 |苦中作乐|O~P |
 |做纪念|O~P |
@@ -37,12 +37,12 @@ tags:
 |在一念之间|Tora x12 Tora Hi<br>Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo|
 |就算苦痛正在蔓延|A A A OOO|
 |我的伤口自己去舔|A A A OOO|
-|拆除△炸弹的线|omeaga ichiban omeaga ichiban|
-|△必须 亲手去剪|—oreno oreno ooo|
+|拆除△炸弹的线|Omeaga ichiban Omeaga ichiban|
+|△必须 亲手去剪|—O-reno Oreno ooo|
 |荆棘铺在寻梦路前|A A A OOO|
 |命运沉默不说抱歉|A A A OOO|
-|不如△勇敢直面|omeaga ichiban omeaga ichiban|
-|既然无法幸免|—oreno oreno ooo|
+|不如△勇敢直面|Omeaga ichiban Omeaga ichiban|
+|既然无法幸免|—O-reno Oreno ooo|
 |保留那些汗水|O~P |
 |苦中作乐|O~P |
 |做纪念|O~P |
