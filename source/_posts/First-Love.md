@@ -1,7 +1,8 @@
 abbrlink: 5807
 title: First Love
+ruby: FIRST LOVE
 ---
-|20141220 李艺彤生日|U'Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
+|[20141220 李艺彤生日](https://www.bilibili.com/video/BV1Zs411U7sh/?p=19&t=5676)|U'Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |初次见面 的那一天|OOO|
 |不知为何 有些怀念|OOO|

@@ -5,8 +5,8 @@ tags:
 ---
 |      |      |
 |--|--|
-|Hey*16|Hey*16<br>Myo-hontusuke ga-HajimaruyoMyo-hontusuke Kasen Tobi Jyo-kyo<br>Jya-jya Faibo Waipa|
-|午后温暖的阳光 就像南瓜灯一样 [1] |OOO OOO |
+|Hey*16|Hey*16<br>Myo-hontusuke Kasen Tobi Jyo-kyo<br>Jya-jya Faibo Waipa(二倍)|
+|午后温暖的阳光 就像南瓜灯一样|OOO OOO |
 |来不及慢慢欣赏 一转眼就消失了|超绝Kawaii OOO|
 |迷人的丛林花香 微风吹过我胸膛|OOO OOO |
 |独角兽迷住过往 载着我奔向远方|超绝Kawaii OOO|
@@ -27,7 +27,7 @@ tags:
 |让我们眼中这一切变成甜蜜棉花糖|Hey Hey HeyHeyHeyHey|
 |此刻你用魔法棒画出了彩虹的模样|      |
 |一层层掀起波浪 我们Wake Up|      |
-|      |      |
+|      |Wi-supeKesui ChapeChapeChape(二倍)<br>ChapeApeKaraKinaKaraApeChape(二倍)<br>JyokyoTobiJyokyo ToraToraTora(二倍)<br>ToraHiJinzouSen'iAmaShindouKa-sen(二倍)|
 |Hey*8|Hey*8|
 |Hey*8|Hey*8<br>Sukidakara Sukidakara<br>ooo noKotoga sukidakara<br>Sukidakara Sukidakara<br>ooo noKotoga sukidakara<br>Su-ki-da-ka-ra|
 |      |      |

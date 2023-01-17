@@ -7,7 +7,7 @@ abbrlink: 5573
 ---
 > 别称：WE ARE THE BEJ
 
-|      |Five Four Three Two One Go<br>U'Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)<br>（注：本曲跟随小偶像抬胳膊）|
+|      |U'Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)<br>（注：本曲跟随小偶像抬胳膊）|
 |--|--|
 |天空出现一道痕迹|OOO|
 |难道是梦想的身影|OOO (P OOO P)|

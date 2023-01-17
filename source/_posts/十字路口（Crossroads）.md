@@ -24,7 +24,7 @@ abbrlink: 38247
 |绝不回头|U'Oi U'Oi U'Oi U'Oi<br>A~Jyaikuzo<br>Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo|
 |      |      |
 |就听个够 唱个够 今生的离歌|O-re-no OOO|
-|燃烧个够 发光个够 然后化为乌有|Tkamaruyo<br>Tkamaruyo<br>Takamaru Hikumaru Bisumaruku<br>Shijimaaru Aruhshindo<br>Kazudansu Niihaioohai<br>Kanchuuhai Uronhai<br>Nachuraruhai I Can Fly|
+|燃烧个够 发光个够 然后化为乌有|Tkamaruyo<br>Tkamaruyo<br>Takamaru Hikumaru Bisumaruku<br>Shijimaaru Aruhshindo<br>Kazudansu Niihaioohai<br>Kanchuuhai Uronhai<br>Nachuraruhai Aikyanfurai(I Can Fly)|
 |一切过去 只是前奏 期待新宇宙|      |
 |时代是滚滚的洪流|      |
 |我是中流那块石头|      |

@@ -33,6 +33,7 @@ tags:
 |献出最完美一面|      |
 |让我们都能变成未来人生的主演|(空12秒 不是cos cos后)|
 |      |Tora Hi Jinzou Seni Ama Shindou Kasen(快)|
+|被男生围在中间||
 |班花就像魔法师|(等1秒)|
 |△用双眼 在放电|Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |上课老师刚出现|      |

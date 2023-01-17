@@ -1,12 +1,12 @@
 abbrlink: 51187
-title: I’m crying
+title: I'm crying
 tags:
   - We are the BEJ,41
   - 前所未有,41
   - 因为喜欢你,32
   - 因为喜欢你,62
 ---
-|      |Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
+|      |[Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya]<br>【BEJ】Taiga Faiya|
 |--|--|
 |黑色的棒球帽 搭配指甲的色彩|A~OOO|
 |带上闪亮墨镜 别以为很奇怪|A~OOO|
@@ -34,7 +34,7 @@ tags:
 |温暖总是无法感受|      |
 |其实只有我独自泪流在街头|      |
 |I’m crying|      |
-|      |Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo|
+|      |[Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo]【BEJ】Tora*12 Tora Hi|
 |你在高兴什么 被别人操纵未来|A~OOO|
 |在这样的舞台 感觉像在发呆|A~OOO|
 |偏偏就学不乖|A~OOO|

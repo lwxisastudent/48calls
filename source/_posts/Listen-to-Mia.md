@@ -3,6 +3,8 @@ title: Listen to Mia
 tags:
   - Fiona.N,32
 ---
+[联动歌曲 Victoria.G《Talking to Mia》](/calls/11622/)
+
 |      |Ra-ion Tora Chita<br>Ratarata Ratorata<br>Sai Gorira Zou<br>Sago Zo Sago Zo|
 |--|--|
 |幻想和你牵手 △散步池塘边|A~ooo|
@@ -20,8 +22,8 @@ tags:
 |让每一刻呼吸 充满意义|      |
 |折一架纸飞机 幻想未知的旅行|      |
 |开怀大笑 勇敢地做自己|      |
-|正中了红心 Boy!|Tora Hi Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo(慢)|
-|      |      |
+|正中了红心 Boy!||
+|      |Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo|
 |又哭又笑女孩△开始杞人忧天|A~ooo|
 |她皱着眉头 望向△远方 哭丧着脸|A~ooo|
 |盯着她的手机|      |
@@ -50,7 +52,7 @@ tags:
 |心中充满爱的憧憬 等待他出线|      |
 |满心期待浪漫的旅行 总会实现|      |
 |生活像是甜美梦境 描绘着各种结局 Yeah|      |
-|向世界大声宣告 We are in love|Kita kita kita kita(快) Waite kita<br>Taiga Taiga Taiga Shotto<br>Toratai Toratai Torataiga<br>Jinzou Seni Let-taiga<br>Jyajya Jyajya Baribaribo<br>Suto suto suto suto(快) Suto raika<br>Kaaru Haintsu Shunaide<br>Sukai Rabu Harikeen|
+|向世界大声宣告 We are in love|(足球小将 2倍速)Kita kita kita kita Waite kita<br>Taiga Taiga Taiga Shotto<br>Toratai Toratai Torataiga<br>Jinzou Seni Let-taiga<br>Jyajya Jyajya Baribaribo<br>Suto suto suto suto Suto raika<br>Kaaru Haintsu Shunaide<br>Sukai Rabu Harikeen|
 |      |      |
 |爱不需要真理 只要活出自己|      |
 |让每一刻呼吸 充满意义|      |
