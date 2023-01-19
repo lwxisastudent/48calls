@@ -1,7 +1,7 @@
 ---
 title: WE ARE THE SNH
 tags:
-  - 'We are the BEJ,43'
+  - 'We are the BEJ,43-WE ARE THE BEJ'
   - '前所未有,43'
 abbrlink: 5573
 ---

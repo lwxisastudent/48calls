@@ -2,10 +2,11 @@ abbrlink: 18813
 title: SNH参上
 tags:
   - 永恒之光,41
-  - UNIVERSE,11
-  - Miss Camellia,42
+  - 偶像研究计划,11-GNZ降临
+  - UNIVERSE,11-BEJ驾临
+  - Miss Camellia,42-CKG驾临
 ---
-> 参上：BEJ驾临、CKG驾临
+> 参上：GNZ降临、BEJ驾临、CKG驾临
 
 |      |(多等会)U'Oi U'Oi U'Oi U'Oi<br>A~yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya|
 |--|--|

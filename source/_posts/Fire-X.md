@@ -2,7 +2,7 @@ abbrlink: 62017
 title: Fire X
 tags:
   - 命运的X号,43
-  - Waiting4（肆）,13
+  - Waiting4（肆）,13-Fire 4
 ---
 
 > 别称：Fire H、Fire 4

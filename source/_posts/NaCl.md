@@ -2,6 +2,7 @@
 title: NaCl
 tags:
   - '三角函数,25'
+  - N.E.W,25-不安星
 abbrlink: 60281
 ---
 > 别称：不安星
