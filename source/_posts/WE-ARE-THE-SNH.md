@@ -3,6 +3,8 @@ title: WE ARE THE SNH
 tags:
   - 'We are the BEJ,43-WE ARE THE BEJ'
   - '前所未有,43'
+  - 十八个闪耀瞬间-Team B,33-WE ARE THE BEJ
+  - 十八个闪耀瞬间-Team NII,42
 abbrlink: 5573
 ---
 > 别称：WE ARE THE BEJ
