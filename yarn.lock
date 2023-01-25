@@ -231,13 +231,6 @@ commander@^5.1.0:
   resolved "https://registry.npmmirror.com/commander/-/commander-5.1.0.tgz"
   integrity sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==
 
-commander@~1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npmmirror.com/commander/-/commander-1.1.1.tgz"
-  integrity sha512-71Rod2AhcH3JhkBikVpNd0pA+fWsmAaVoti6OR38T76chA7vE3pSerS0Jor4wDw+tOueD2zLVvFOw5H0Rcj7rA==
-  dependencies:
-    keypress "0.1.x"
-
 compressible@~2.0.16:
   version "2.0.18"
   resolved "https://registry.npmmirror.com/compressible/-/compressible-2.0.18.tgz"
@@ -715,13 +708,6 @@ hexo-renderer-stylus@^2.1.0:
     nib "^1.2.0"
     stylus "^0.57.0"
 
-hexo-ruby-character@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmmirror.com/hexo-ruby-character/-/hexo-ruby-character-1.0.6.tgz"
-  integrity sha512-uvWzMmiuduVYyd0/kRU85gp1TTCiiwTY5jWYgFPO2P9HeBSCEEinN7s6u87dscQv6dJ5DMF4iIvwekAHbz+d9A==
-  dependencies:
-    pinyin "~2.6.2"
-
 hexo-server@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/hexo-server/-/hexo-server-3.0.0.tgz"
@@ -983,11 +969,6 @@ jsonparse@^1.3.1:
   resolved "https://registry.npmmirror.com/jsonparse/-/jsonparse-1.3.1.tgz"
   integrity sha512-POQXvpdL69+CluYsillJ7SUhKvytYjW9vG/GKpnf+xP8UWgYEM/RaMzHHofbALDiKbbP1W8UEYmgGl39WkPZsg==
 
-keypress@0.1.x:
-  version "0.1.0"
-  resolved "https://registry.npmmirror.com/keypress/-/keypress-0.1.0.tgz"
-  integrity sha512-x0yf9PL/nx9Nw9oLL8ZVErFAk85/lslwEP7Vz7s5SI1ODXZIgit3C5qyWjw4DxOuO/3Hb4866SQh28a1V1d+WA==
-
 levn@~0.3.0:
   version "0.3.0"
   resolved "https://registry.npmmirror.com/levn/-/levn-0.3.0.tgz"
@@ -1239,15 +1220,6 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.3.1:
   version "2.3.1"
   resolved "https://registry.npmmirror.com/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
-
-pinyin@~2.6.2:
-  version "2.6.2"
-  resolved "https://registry.npmmirror.com/pinyin/-/pinyin-2.6.2.tgz"
-  integrity sha512-w+Te/HyQUI8OxUQrsNzMFeH6H4EbeIJ8cS4ZVSugBxH9Ou92Ncwuhj1B1QvbsP4nfSXVqZOqWuEMm3AVOx5erA==
-  dependencies:
-    commander "~1.1.1"
-  optionalDependencies:
-    nodejieba "^1.3.0"
 
 prelude-ls@~1.1.2:
   version "1.1.2"

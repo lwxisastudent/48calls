@@ -21,12 +21,13 @@
 $ npm install hexo-cli -g
 ```
 
-**2. 安装本仓库**
+**2. 安装本仓库(hexo及插件)**
 
 ``` bash
 $ git clone https://github.com/lwxisastudent/48calls.git
 $ cd 48calls
 $ npm install
+$ npm install hexo-abbrlink
 ```
 
 **3. 安装魔改版hexo核心**
