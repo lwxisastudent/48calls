@@ -4,6 +4,7 @@ tags:
   - 我的太阳,42
   - Miss Camellia 成长,12
   - 十八个闪耀瞬间-Team NII,11
+  - 我的舞台,14
 abbrlink: 63874
 ---
 |      |      |
@@ -18,7 +19,7 @@ abbrlink: 63874
 |(fall in love)|      |
 |这个季节都还没有成△熟|OOO|
 |对你的感觉已疯过了△头|OOO|
-|久违的阳光停留|Seno Hey Hey HeyHeyHeyHey |
+|久违的阳光停留 △|HaiSeno Hey Hey HeyHeyHeyHey |
 |一起感受|      |
 |你的笑容像苹果|O~Hai O~Hai|
 |忍不住想咬一口|O~Hai O~Hai|
@@ -46,7 +47,7 @@ abbrlink: 63874
 |(thank you!)|      |
 |感谢这微风把寂寞吹走|OOO|
 |对你的想念不再有困惑|OOO|
-|幸福慢慢的升空|Seno Hey Hey HeyHeyHeyHey |
+|幸福慢慢的升空 △|HaiSeno Hey Hey HeyHeyHeyHey |
 |正享受这自由|      |
 |呼吸放慢了节奏|O~Hai O~Hai|
 |让感觉心灵相通|O~Hai O~Hai|
@@ -67,7 +68,7 @@ abbrlink: 63874
 |开往终点的幸福列车|      |
 |(oh,oh my god!)|      |
 |      |      |
-|BINGO! BINGO!|NIII 持续|
+|BINGO! BINGO!|NIII*16|
 |遇见你会在下一个路口|      |
 |(finally)|      |
 |BINGO! BINGO!|      |

@@ -2,11 +2,12 @@ abbrlink: 14093
 title: Fly
 tags:
   - 双面偶像,13
+  - 他们所不知道的Team G,13
 ---
 |      |U'Oi U'Oi U'Oi U'Oi<br>A~Yossha Ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya<br>Tora Hi Jinzou Seni<br>A~Yossha Ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya<br>Faibo Waipa|
 |--|--|
-|蓝蓝的天 勇敢向前|ooo|
-|热闹的街 第一次的见面|ooo|
+|蓝蓝的天 勇敢向前|O-re-no OOO|
+|热闹的街 第一次的见面|—|
 |我们不怕危险(有你就不怕wow)|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |你我诺言 态度坚决|—Kawaii Kawaii chouKawaii |
 |绝不后悔oh不管多少年|—ooo Kawaii chouKawaii|
@@ -32,8 +33,8 @@ tags:
 |Follow this tempo|      |
 |想要让你对我说|      |
 |      |U'Oi U'Oi U'Oi U'Oi<br>A~Yossha Ikuzo<br>Tora Hi Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo|
-|蓝蓝的天勇敢向前|ooo|
-|热闹的街第一次的见面|ooo|
+|蓝蓝的天勇敢向前|O-re-no OOO|
+|热闹的街第一次的见面|—|
 |我们不怕危险(有你就不怕wow)|—Omeaga ichiban Omeaga ichiban O-reno Oreno ooo|
 |你我诺言态度坚决|—Kawaii Kawaii chouKawaii |
 |绝不后悔oh不管多少年|—ooo Kawaii chouKawaii|

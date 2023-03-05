@@ -2,6 +2,7 @@ abbrlink: 15436
 title: I wanna be your girl
 tags:
   - 双面偶像,27
+  - 他们所不知道的Team G,27
 ---
 |      |      |
 |--|--|

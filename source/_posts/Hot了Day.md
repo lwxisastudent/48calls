@@ -2,6 +2,7 @@
 title: Hot了Day
 tags:
   - 双面偶像,11
+  - 他们所不知道的Team G,11
 abbrlink: 31852
 ---
 |      |Haix16|

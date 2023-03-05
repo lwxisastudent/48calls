@@ -2,6 +2,7 @@ abbrlink: 43180
 title: Gravity
 tags:
   - 双面偶像,42
+  - 他们所不知道的Team G,42
 ---
 |      |(改自首演第二场毒瘤 剧场勿call)|
 |--|--|

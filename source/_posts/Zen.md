@@ -26,15 +26,15 @@ tags:
 |天降大任|      |
 |必先有考验|      |
 |越危险越向前|      |
-|△如果你想要的那份甜|U'Oi U'Oi U'Oi U'Oi|
-|△先尝百苦 再来蜕变|—A~HaiHaiHaiHai|
+|△如果你想要的那份甜|Hey Hey Hey Hey|
+|△先尝百苦 再来蜕变|—A~ HeyHeyHeyHey|
 |距离最短|      |
 |未必是直线|      |
 |我用我坚持的曲线|      |
 |去到达终点|      |
 |让痛催生繁花一片|      |
 |顿悟万千|      |
-|在一念之间|Tora x12 Tora Hi<br>Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo|
+|在一念之间|Tora x12 Tora Hi<br>Jinzou Seni Ama Shindou Kasen Tobi Jyo-kyo<br>Tobi Jyo-kyo|
 |就算苦痛正在蔓延|A A A OOO|
 |我的伤口自己去舔|A A A OOO|
 |拆除△炸弹的线|Omeaga ichiban Omeaga ichiban|
@@ -54,8 +54,8 @@ tags:
 |天降大任|      |
 |必先有考验|      |
 |越危险越向前|      |
-|△如果你想要的那份甜|U'Oi U'Oi U'Oi U'Oi|
-|△先尝百苦 再来蜕变|—A~HaiHaiHaiHai|
+|△如果你想要的那份甜|Hey Hey Hey Hey|
+|△先尝百苦 再来蜕变|—A~ HeyHeyHeyHey|
 |距离最短|      |
 |未必是直线|      |
 |我用我坚持的曲线|      |

@@ -11,7 +11,7 @@ tags:
 |微笑的瞬间|      |O~Fu~Fu|
 |百分百能量|      |      |
 |以光速 传递全世界|      |PP Fuwa~Fuwa|
-|再见你一面△|Yetaiga Yetaiga|Haiseno Haiseno|
+|再见你△一面|Yetaiga Yetaiga|Haiseno Haiseno|
 |△预约下一个 春天|—Yetaiga Faibo Waipa|—Hey Hey HeyHeyHeyHey|
 |I’ll be missing you|      |      |
 |Really want to see you|      |      |
@@ -26,7 +26,7 @@ tags:
 |微笑的瞬间|      |O~Fu~Fu|
 |百分百能量|      |      |
 |以光速 传递全世界|      |PP Fuwa~Fuwa|
-|△再见你一面|Yetaiga Yetaiga|Haiseno Haiseno|
+|再见你△一面|Yetaiga Yetaiga|Haiseno Haiseno|
 |△预约下一个 春天|—Yetaiga Faibo Waipa|—Hey Hey HeyHeyHeyHey|
 |See you again|      |      |
 |各自纷飞冒险|      |      |
@@ -46,7 +46,7 @@ tags:
 |微笑的瞬间|      |O~Fu~Fu|
 |百分百能量|      |      |
 |以光速传递全世界|      |PP Fuwa~Fuwa|
-|再见你一面|Yetaiga Yetaiga|Haiseno Haiseno|
+|再见你△一面|Yetaiga Yetaiga|Haiseno Haiseno|
 |预约下一个 春天|—Yetaiga Faibo Waipa|—Hey Hey HeyHeyHeyHey|
 |See you again|      |      |
 |各自纷飞冒险|      |      |

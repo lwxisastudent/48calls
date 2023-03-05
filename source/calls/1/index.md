@@ -1,4 +1,3 @@
-abbrlink: 1
 title: core更新日志
 ---
 ## alpha1 (221204)
@@ -7,7 +6,7 @@ title: core更新日志
 
 ## alpha2 (221205)
 
-1. post按公演阶段排版----lib/plugins/processor/post.js, lib/plugins/helper/list_posts_stage.js
+1. post按公演阶段排版----lib/models/post.js, lib/plugins/processor/post.js, lib/plugins/helper/list_posts_stage.js
 2. post页tag图标按首演日期排序----lib/plugins/helper/stage_date.js
 
 ## alpha2.3 (221205)
@@ -36,3 +35,8 @@ title: core更新日志
 
 1. 十八闪公演支持
 2. post页tag图标文字缩写
+
+## alpha7 (230130)
+
+1. 优化搜索(歌名+别名+歌词)----(cactus)source/js/search.js
+2. tag页两首相同歌支持

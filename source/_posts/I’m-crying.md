@@ -6,7 +6,7 @@ tags:
   - 因为喜欢你,32
   - 因为喜欢你,62
 ---
-|      |[Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya]<br>【BEJ】Taiga Faiya|
+|      |(Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya)<br>【或BEJ】Taiga Faiya|
 |--|--|
 |黑色的棒球帽 搭配指甲的色彩|A~OOO|
 |带上闪亮墨镜 别以为很奇怪|A~OOO|
@@ -34,7 +34,7 @@ tags:
 |温暖总是无法感受|      |
 |其实只有我独自泪流在街头|      |
 |I’m crying|      |
-|      |[Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo]【BEJ】Tora*12 Tora Hi|
+|      |(Tora Hi Jinzou Seni Ama ShindouKasenTobiJyo-kyo)<br>【或BEJ】Tora*12 Tora Hi|
 |你在高兴什么 被别人操纵未来|A~OOO|
 |在这样的舞台 感觉像在发呆|A~OOO|
 |偏偏就学不乖|A~OOO|
@@ -56,7 +56,7 @@ tags:
 |温暖总是无法感受|      |
 |其实只有我独自泪流在街头|      |
 |I’m crying|      |
-|(间奏二)|      |
+|(间奏二)|Tsunagaritai Tsunagaritai<br>Yappari OOO To Tsunagaritai<br>Tsunagaritai Tsunagaritai<br>Tsunagaritaikara<br>Tsunagaritaiga<br>Faiya Saiba Faiba Daiba Baiba Jyajya Faibo<br>Injyo Jyasupa Biburaru Kasen<br>Ye Naruda Faboriasuta|
 |这样的态度 到底能坚持多久|      |
 |我存在的理由|      |
 |就算每个大人都在|      |
@@ -69,8 +69,4 @@ tags:
 |其实就能够把它看透|      |
 |温暖总是无法感受|      |
 |其实只有我独自泪流在街头|      |
-|I’m crying|      |
-|I’m crying|      |
-|I’m crying|      |
-|I’m crying|      |
-|We’re crying|      |
+|I’m crying△<br>I’m crying<br>I’m crying<br>I’m crying<br>We’re crying|Marufoi Marufoi Marufoi Marufoi<br>A~P Gurifindoru<br>AkushioRedakuto Rumosu<br>Winga-diamuReviosa<br>Anatano wa Reviosa<br>Ekusupekuto Patoronamu<br>Tormuridoru Tomuridoru<br>Vorudemo-to tte Shitteru<br>Ha-maionii Guren-jya|
