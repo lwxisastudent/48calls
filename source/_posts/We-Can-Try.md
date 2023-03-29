@@ -2,6 +2,7 @@ abbrlink: 65307
 title: We Can Try
 tags:
   - 第一人称,33
+  - Waiting4（肆）,14
 ---
 |      |Litai Kotoga aru nda yo<br>yappari OOO wa kawaii yo<br>suki suki daisuki yappa suki<br>Five Foue Three Two One Go<br>U' Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|

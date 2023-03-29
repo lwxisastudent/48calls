@@ -35,7 +35,7 @@ $ npm install hexo-abbrlink
 ``` bash
 $ cd node_modules
 $ rm -rf hexo
-$ git clone -b hexo https://github.com/lwxisastudent/48calls-core
+$ git clone -b hexo https://github.com/lwxisastudent/48calls-core hexo
 $ cd hexo
 $ npm install
 ```
@@ -44,7 +44,7 @@ $ npm install
 
 ``` bash
 $ cd ../../themes
-$ git clone -b cactus https://github.com/lwxisastudent/48calls-core
+$ git clone -b cactus https://github.com/lwxisastudent/48calls-core cactus
 ```
 
 **5. 运行**

@@ -2,6 +2,7 @@ abbrlink: 7124
 title: My Boy
 tags:
   - HAKUNA MATATA,21
+  - Waiting4（肆）,23
 ---
 |      |
 |--|
