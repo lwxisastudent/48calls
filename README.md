@@ -27,27 +27,22 @@ $ npm install hexo-cli -g
 $ git clone https://github.com/lwxisastudent/48calls.git
 $ cd 48calls
 $ npm install
-$ npm install hexo-abbrlink
+$ npm install --save hexo-abbrlink
+$ npm install --save hexo-generator-search
 ```
 
-**3. 安装魔改版hexo核心**
+**3. 替换魔改版hexo核心**
+
+删除原有node_modules/hexo文件夹
 
 ``` bash
 $ cd node_modules
 $ rm -rf hexo
-$ git clone -b hexo https://github.com/lwxisastudent/48calls-core
-$ cd hexo
-$ npm install
 ```
 
-**4. 安装魔改版cactus theme**
+将主目录下hexo.zip解压到node_modules文件夹中
 
-``` bash
-$ cd ../../themes
-$ git clone -b cactus https://github.com/lwxisastudent/48calls-core
-```
-
-**5. 运行**
+**4. 运行**
 
 ``` bash
 $ cd ..
