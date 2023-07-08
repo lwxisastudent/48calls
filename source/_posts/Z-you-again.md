@@ -16,12 +16,12 @@ tags:
 |I’ll be missing you|      |      |
 |Really want to see you|      |      |
 |相片视频|      |      |
-|记录着我们 △美好瞬间|Oreno OOO|      |
+|记录着我们 △美好瞬间|O-re-no OOO|      |
 |△信息留言 传送|—OOO OOO|      |
 |△彼此关注 编织的梦想|—超绝Kawaii OOO|      |
 |下一刻 将要 迈向|      |      |
 |截然不同的道路上|      |      |
-|极致你的 美好想象|      |(空1秒)Faibo Waipa|
+|极致你的 美好想象|      |P Yetaiga FaiboWaipa(或P Faibo Waipa)|
 |I see u again|      |      |
 |微笑的瞬间|      |O~Fu~Fu|
 |百分百能量|      |      |
@@ -36,12 +36,12 @@ tags:
 |将是更闪亮的呈现|      |      |
 |I’ll be missing you|      |      |
 |Really want to see you|      |      |
-|从前的你 曾经害怕 △一人孤独|Oreno OOO|      |
+|从前的你 曾经害怕 △一人孤独|O-re-no OOO|      |
 |△如今的你 爱挑战|—OOO OOO|      |
 |△足迹踏遍过了全世界|—超绝Kawaii OOO|      |
 |下一刻 就要|O~OO O~OO|      |
 |抛开负面所带来的能量|O~OO O~OO|      |
-|重新 绽放 不再惧怕|      |(空1秒)Faibo Waipa|
+|重新 绽放 不再惧怕|      |P Yetaiga FaiboWaipa(或P Faibo Waipa)|
 |I see u again|      |      |
 |微笑的瞬间|      |O~Fu~Fu|
 |百分百能量|      |      |
@@ -53,7 +53,8 @@ tags:
 |再艰难的考验|      |      |
 |你永远都让人惊艳|      |      |
 |再见一面|      |      |
-|将会是更真实的呈现|Kita Kita Kita Kita Waitekita<br>Taiga Taiga TaigaShotto<br>ToraTai ToraTai ToraTaiga<br>Jinzou Seni Yetaiga<br>Jyajya Jyajya Baribaribo<br>Suto Suto Suto Suto Sutoraika<br>Kaaru Haintsu Shunaida<br>Skai Rabu Harikeen|omaeni deaeta anohi kara<br>muneni dakuwa koigokoro<br>ima omoeruwa omaedake<br>sa~a sasageyou daitenshi<br>Orega Umarete Kita Riyu<br>Sorewa Omaeni Deautame<br>Oreto Isshoni Jinsei Ayumou<br>Sekai De Ichiban Aishiteru|
+|将会是更真实的呈现|Haiseno||
+||Kita Kita Kita Kita Waitekita<br>Taiga Taiga TaigaShotto<br>ToraTai ToraTai ToraTaiga<br>Jinzou Seni Yetaiga<br>Jyajya Jyajya Baribaribo<br>Suto Suto Suto Suto Sutoraika<br>Kaaru Haintsu Shunaida<br>Skai Rabu Harikeen|omaeni deaeta anohi kara<br>muneni dakuwa koigokoro<br>ima omoeruwa omaedake<br>sa~a sasageyou daitenshi<br>Orega Umarete Kita Riyu<br>Sorewa Omaeni Deautame<br>Oreto Isshoni Jinsei Ayumou<br>Sekai De Ichiban Aishiteru|
 |下一刻 要用 全新姿态出场|Wa! Wa! Wa! Wa! Wa! Wa! <br>Warudokaosu!|      |
 |挣脱掉 旧枷锁 看我破天荒|—Shogyou Kogure Shigure Kagura<br>Kongousan Shoushuusha <br>|      |
 |      |—Kokuun Mujou Se-kai-kunton|      |

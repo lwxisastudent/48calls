@@ -2,9 +2,10 @@
 title: 初眠（Ring）
 tags:
   - 幻镜,26
+  - 启程：Team G,20
 abbrlink: 51458
 ---
-|      |pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|
+|      |【幻镜】PanPanPanPan PokemonPan<br>Furesshu Bureddo ItoPan<br>Matsutakako Matsutakako<br>Yamazaki Haruno PanMatsuri<br>furansu pan meron pan<br>anpan kara no anpanchi<br>dokin chan~ dokin chan~<br>dokin no imouto kokin chan<br>(见[BV1rY411Q79k](https://www.bilibili.com/video/BV1rY411Q79k))<br>【启程G】Marufoi Marufoi Marufoi Marufoi<br>A-PP Gurifindo-ru<br>AkushioRedakuto，Ru-mosu<br>Winga-diamu Revio-sa-<br>Anatanowa Reviosa-<br>Ekusupekuto Patoro-namu<br>Tomuridoru Tomuridoru<br>Vorudemo-to tte Shitteru?|
 |--|--|
 |窗边洒入月色△多美 却感如芒在△背|OOO A~OOO|
 |Oh lalalala yeah|Sekaino ichiban Kawaii OOO|

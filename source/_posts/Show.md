@@ -3,8 +3,9 @@ title: Show
 tags:
   - B A FIGHTER,23
   - 他们所不知道的Team Z,23
+  - 启程：Team Z,32
 ---
-||      |
+||
 |--|
 |模糊镜子里身影|
 |发梢湿透的衣领|

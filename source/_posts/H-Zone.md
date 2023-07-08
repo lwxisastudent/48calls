@@ -2,8 +2,12 @@
 title: H Zone
 tags:
   - 美丽世界,11
+  - 启程：Team G,41-G Zone
+  - 美丽48区,11-S Zone
 abbrlink: 49473
 ---
+> 别称：S Zone、X Zone、G Zone
+
 |      |U'Oi U'Oi U'Oi U'Oi<br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>Tora Hi Jinou Seni <br>A~yoshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|
 |走开 这是谁的地盘|OOO|

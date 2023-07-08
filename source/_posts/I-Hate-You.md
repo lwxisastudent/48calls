@@ -2,6 +2,7 @@ abbrlink: 4687
 title: I Hate You
 tags:
   - 美丽世界,12
+  - 美丽48区,12
 ---
 |      |
 |--|

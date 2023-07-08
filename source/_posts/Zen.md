@@ -73,7 +73,7 @@ tags:
 |△一以贯之 能逆转|Team Z Team Z|
 |入世间 历劫 觉悟 一瞬间|      |
 |把有限有为化成无为 和无限 的修炼|      |
-|天降大任|Wa Wa|
+|天降大△任|Wa Wa|
 |必先有考验|Wa Wa|
 |越危险越向前|Wa Wa Waarudokaosu|
 |△如果你想要的那份甜|Shogyou Kogure Shigure Kagura|

@@ -2,6 +2,7 @@ abbrlink: 34558
 title: Funky Night
 tags:
   - 专属派对,31
+  - 启程：Team Z,41
 ---
 |      |Taiga Faiya TaigaFaiyaSaiba<br>Saiba Baiba SaibaBaibaDaiba<br>Daiba Baiba DaibaBaibaJya-jya<br>Jya-jya Jya-jya JyajyaFaiboWaipa|
 |--|--|
