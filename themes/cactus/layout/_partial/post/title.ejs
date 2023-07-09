@@ -1,0 +1,20 @@
+<% if (index) { %>
+    <% if (post.link) { %>
+        <a class="<%= class_name %>" href="<%- url_for(post.link) %>" target="_blank" itemprop="url"><%= post.title %></a>
+    <% } else if (post.title) { %>
+        <a class="<%= class_name %>" href="<%- url_for(post.path) %>"><%= post.title %></a>
+    <% } else { %>
+        <a class="<%= class_name %>" href="<%- url_for(post.path) %>">Untitled</a>
+    <% } %>
+<% } else { %>
+    <h1 class="<%= class_name %>" itemprop="name headline">
+        <% if (post.ruby!=null) { %>
+        <ruby><%- post.title %><rp>(</rp><rt><%- post.ruby %></rt><rp>)</rp></ruby>
+        <% } else if (forname(post.title)!=null) { %>
+        <%- post.title %>（<ruby><%- forname(post.title)[0] %><rp>(</rp><rt><%- forname(post.title)[1] %></rt><rp>)</rp></ruby>）
+        <% } else { %>
+        <%= post.title %>
+        <% } %>
+    </h1>
+<% } %>
+
