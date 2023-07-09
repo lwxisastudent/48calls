@@ -31,16 +31,30 @@ $ npm install --save hexo-abbrlink
 $ npm install --save hexo-generator-search
 ```
 
-**3. 替换魔改版hexo核心**
+**3. 评论功能**
 
-删除原有node_modules/hexo文件夹
+评论功能由Valine（基于LeanCloud）实现
 
-``` bash
-$ cd node_modules
-$ rm -rf hexo
+1. 按照[快速开始 - Valine](https://valine.js.org/quickstart.html)中方式获得app_id & app_key
+2. 在`themes/cactus/layout/_partial`下建立comments.ejs
+
+``` ejs
+<% if(theme.leancloud.enable){ %>
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '', //填入你的app_id
+            appKey: '', //填入你的app_key
+            avatar:'hide',
+            meta: ['nick'],
+            highlight: false
+        })
+    </script>
+<% } %>
 ```
 
-将主目录下hexo.zip解压到node_modules文件夹中
+注意：不需要评论功能请在`themes/cactus/_config.yml`中将leadcloud.enable设置为false（默认true）
 
 **4. 运行**
 
