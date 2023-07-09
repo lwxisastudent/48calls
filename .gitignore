@@ -3,12 +3,12 @@ Thumbs.db
 db.json
 *.log
 *.zip
-node_modules/*
-!node_module/hexo/
-!node_module/hexo/*
+**/node_modules
+!/node_modules
+/node_modules/*
+!/node_modules/hexo
 public/
 .deploy*/
 _multiconfig.yml
 source/resources/prajna*
-source/resources/prajna*/
 themes/cactus/layout/_partial/comments.ejs

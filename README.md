@@ -1,4 +1,4 @@
-<img src="https://github.com/lwxisastudent/48calls-core/blob/376ca80c74a4576b44ee146ef461cc8d59439ab1/source/images/logo.png" alt="Logo" width="100" height="100" align="right" />
+<img src="themes/cactus/source/images/logo.png" alt="Logo" width="100" height="100" align="right" />
 
 # delay48
 
