@@ -80,6 +80,13 @@ archy@^1.0.0:
   resolved "https://registry.npmmirror.com/archy/-/archy-1.0.0.tgz#f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40"
   integrity sha512-Xg+9RwCg/0p32teKdGMPTPnVXKD0w3DfHnFTficozsAgsvq2XenPJq/MYpzzQ/v8zrOyJn6Ds39VA4JIDwFfqw==
 
+argparse@^1.0.7:
+  version "1.0.10"
+  resolved "https://registry.npmmirror.com/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"
+  integrity sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg==
+  dependencies:
+    sprintf-js "~1.0.2"
+
 argparse@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmmirror.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
@@ -443,7 +450,7 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-esprima@^4.0.1:
+esprima@^4.0.0, esprima@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npmmirror.com/esprima/-/esprima-4.0.1.tgz#13b04cdb3e6c5d19df91ab6987a8695619b0aa71"
   integrity sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==
@@ -565,6 +572,14 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+hexo-abbrlink@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.npmmirror.com/hexo-abbrlink/-/hexo-abbrlink-2.2.1.tgz#03a3bbf73816ed19279e97452ce617c6caf98b5a"
+  integrity sha512-yvazN7bbrIb7p8QU3nJ/8fbDmir1mFroYvUYcJz5xpc6DtszKggschmqZg6WNUdjhDBFyDwksrIUfwQnw0OOuA==
+  dependencies:
+    hexo-front-matter "^1.0.0"
+    hexo-fs "^3.1.0"
+
 hexo-cli@^4.3.0:
   version "4.3.0"
   resolved "https://registry.npmmirror.com/hexo-cli/-/hexo-cli-4.3.0.tgz#4bb2bf11a30fae601f2f53ac0cb833fee3187649"
@@ -580,6 +595,13 @@ hexo-cli@^4.3.0:
     minimist "^1.2.5"
     resolve "^1.11.0"
     tildify "^2.0.0"
+
+hexo-front-matter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/hexo-front-matter/-/hexo-front-matter-1.0.0.tgz#0b48b1c1ed143e8cb25b3b223a9037385d910655"
+  integrity sha512-Hn8IIzgWWnxYTekrjnA0rxwWMoQHifyrxKMqVibmFaRKf4AQ2V6Xo13Jiso6CDwYfS+OdA41QS5DG1Y+QXA5gw==
+  dependencies:
+    js-yaml "^3.13.1"
 
 hexo-front-matter@^3.0.0:
   version "3.0.0"
@@ -618,6 +640,14 @@ hexo-generator-index@^3.0.0:
   integrity sha512-83AuNN4cWdLVi//3ugR8E3kR6rrOwhXZt+hOCm1IjtIGj353/GlrtpMHpqZHU5kqipzj4miy9dweVdukXglVWw==
   dependencies:
     hexo-pagination "3.0.0"
+
+hexo-generator-search@^2.4.3:
+  version "2.4.3"
+  resolved "https://registry.npmmirror.com/hexo-generator-search/-/hexo-generator-search-2.4.3.tgz#c4f35c8b8429355612dd1cdf5a18de3568166f99"
+  integrity sha512-Z5hfZq2g3np/Tgdp2q9HobfIvU6Pdz89tnTurc1IIq/vW0MHgDynk0Aiv6kvMtKWthnZ5l0iEMT3YLN35NdYwQ==
+  dependencies:
+    nunjucks "^3.0.1"
+    utils-merge "^1.0.0"
 
 hexo-generator-tag@^2.0.0:
   version "2.0.0"
@@ -691,10 +721,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-landscape@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-0.0.3.tgz#87d1f4d613da9be5245dad0d4b80479eab70d386"
-  integrity sha512-b0Di+TUVs4ESrNX4ULEh9uQmADpO6kr10rIJ2OGZM8suNQNFKdxn+vJUjnLfKkCPJAfVmS7/S83KCNYe4tpoNw==
+hexo-theme-landscape@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz#43a549ebb2bea73196200ee4397feb764131a481"
+  integrity sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==
 
 hexo-util@^2.0.0, hexo-util@^2.7.0:
   version "2.7.0"
@@ -884,6 +914,14 @@ js-yaml-js-types@^1.0.0:
   integrity sha512-UNjPwuoaj4mcHkJCJSF6l4MgkzoFjG+JJkBXMYNvjgO3yE9gTeRt+E6PN022vduz/daZZ7HmlEiSEE36NrGE4w==
   dependencies:
     esprima "^4.0.1"
+
+js-yaml@^3.13.1:
+  version "3.14.1"
+  resolved "https://registry.npmmirror.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
+  integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
+  dependencies:
+    argparse "^1.0.7"
+    esprima "^4.0.0"
 
 js-yaml@^4.1.0:
   version "4.1.0"
@@ -1076,6 +1114,15 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
+
+nunjucks@^3.0.1:
+  version "3.2.4"
+  resolved "https://registry.npmmirror.com/nunjucks/-/nunjucks-3.2.4.tgz#f0878eef528ce7b0aa35d67cc6898635fd74649e"
+  integrity sha512-26XRV6BhkgK0VOxfbU5cQI+ICFUtMLixv1noZn1tGU38kQH5A5nmmbk/O45xdyBhD1esk47nKrY0mvQpZIhRjQ==
+  dependencies:
+    a-sync-waterfall "^1.0.0"
+    asap "^2.0.3"
+    commander "^5.1.0"
 
 nunjucks@^3.2.3:
   version "3.2.3"
@@ -1349,6 +1396,11 @@ sprintf-js@^1.0.3:
   resolved "https://registry.npmmirror.com/sprintf-js/-/sprintf-js-1.1.2.tgz#da1765262bf8c0f571749f2ad6c26300207ae673"
   integrity sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==
 
+sprintf-js@~1.0.2:
+  version "1.0.3"
+  resolved "https://registry.npmmirror.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
+  integrity sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==
+
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.npmmirror.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
@@ -1495,7 +1547,7 @@ util-deprecate@^1.0.1:
   resolved "https://registry.npmmirror.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-utils-merge@1.0.1:
+utils-merge@1.0.1, utils-merge@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==
