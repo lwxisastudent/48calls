@@ -40,3 +40,8 @@ title: core更新日志
 
 1. 优化搜索(歌名+别名+歌词)----(cactus)source/js/search.js
 2. tag页两首相同歌支持
+
+## alpha8 (230712)
+
+1. Valine(基于Linecloud)评论----(cactus)layout/_partial/comments.ejs, source/css/_partial/comments.styl
+2. 移动设备歌词显示优化
