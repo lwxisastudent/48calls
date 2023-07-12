@@ -60,4 +60,4 @@ tags:
 |她总让人摸不着头绪|      |
 |千变万化的语气|      |
 |悄悄藏了心机|      |
-|却又可爱让人不禁着迷|(空1秒)Destination Slow Motion<br>Combination Graduation<br>Invitation Temptation<br>Revolution Kanashimi<br>Calibration|
+|却又可爱让人不禁着迷 △|Destination Slow Motion<br>Combination Graduation<br>Invitation Temptation<br>Revolution Kanashimi<br>Calibration|

@@ -2,6 +2,7 @@ abbrlink: 12426
 title: PUNCH LINE
 tags:
   - 头号新闻,12
+  - 十八个闪耀瞬间-绝密代码,14-Punch line
 ---
 |      |(变奏后)Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|

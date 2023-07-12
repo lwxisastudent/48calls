@@ -16,7 +16,7 @@ tags:
 |当你出发 雨△开始下|      |O~OO|
 |张开双手 就△淋湿吧|      |O~OO|
 |一个人走 不害怕|      |      |
-|沿路风景 陪你成长|(空1秒)Yeitaga(与向前走同时)|      |
+|沿路风景 陪你成长|P Yeitaga(与向前走同时)|      |
 |向前走 Single dream|      |      |
 |挑战自己△ 下一关有更多的惊喜△|Fu Fu~ PP Fuwa~Fuwa|      |
 |Single wish 带着憧憬|Haiseno Haiseno|      |
@@ -51,7 +51,7 @@ tags:
 |温柔的笑 温暖的双手 轻抚我的心|      |      |
 |陷入迷惘的时候 总会有个声音|      |      |
 |轻轻（轻轻） 在耳边（在耳边）|      |      |
-|说 别轻言放弃|Yetaiga|      |
+|说 别轻言放弃|P Yetaiga|      |
 |向前走 Single dream|      |      |
 |挑战自己 下一关有更多的惊喜|Fu Fu~ PP Fuwa~Fuwa|      |
 |Single wish 带着憧憬|Haiseno Haiseno|      |

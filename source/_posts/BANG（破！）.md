@@ -2,6 +2,7 @@ abbrlink: 52479
 title: BANG!（破！）
 tags:
   - 幻镜,33
+  - 幻镜B版,32
 ---
 |      |omaeni deaeta anohi kara<br>muneni dakuwa koigokoro<br>ima omoeruwa omaedake<br>sa~a sasageyou daitenshi|
 |--|--|

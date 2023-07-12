@@ -1,0 +1,10 @@
+
+  <% let num = Math.round(Math.random()*10000); %>
+  <% let ds = random_song(site.posts.data, num); %>
+  
+    <head>
+  <meta http-equiv="refresh" content="1; url=/calls/<%- ds.abbrlink %>">
+    </head>
+    <body>
+    <p>即将跳转至：<i><%- ds.title %></i></p>
+    </body>

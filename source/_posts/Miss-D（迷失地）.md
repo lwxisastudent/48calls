@@ -2,6 +2,7 @@ abbrlink: 19846
 title: Miss D（迷失地）
 tags:
   - 幻镜,21
+  - 幻镜B版,26
 ---
 |      |
 |--|

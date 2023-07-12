@@ -2,6 +2,7 @@
 title: 明日到来之前（We are the best）
 tags:
   - 幻镜,41
+  - 幻镜B版,41
 abbrlink: 59496
 ---
 |      |拍手|

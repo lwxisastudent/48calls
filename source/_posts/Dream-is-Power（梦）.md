@@ -2,6 +2,7 @@
 title: Dream is Power（梦）
 tags:
   - 幻镜,42
+  - 幻镜B版,42
 abbrlink: 20677
 ---
 我最喜欢付美善~[Dream is Power MV](https://www.bilibili.com/video/BV1K34y1p78a)

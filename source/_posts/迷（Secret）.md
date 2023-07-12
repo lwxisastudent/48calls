@@ -3,6 +3,7 @@ title: 迷（Secret）
 tags:
   - 幻镜,12
   - 启程：Team G,42
+  - 幻镜B版,12
 ---
 
 |      |      |

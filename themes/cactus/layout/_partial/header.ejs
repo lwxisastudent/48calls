@@ -15,10 +15,13 @@
       <h1><%= config.title %></h1>
     </div>
   </a>
-  <% let ds = random_song(site.posts.data) %>
+  <% let date = new Date(Date.now()); %>
+  <% let num = date.getMonth() * 1000 + date.getDate() * 10 + date.getDay(); %>
+  <% let ds = random_song(site.posts.data, num); %>
   <div class="song-recommend z">
   <p>当前收录<%- site.posts.length %>首</p>
   <p>每日①曲: <i><a href="/calls/<%- ds.abbrlink %>"><%- ds.title %></a></i></p>
+  <p><i><a href="/random">随机选曲</a></i></p>
   </div>
   <div class="song-recommend e">
   <p><i><a href="/calls/53682">春夏秋冬</a></i></p>
