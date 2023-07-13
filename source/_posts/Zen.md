@@ -2,6 +2,7 @@ abbrlink: 44938
 title: Zen
 tags:
   - 三角函数,42
+  - 十八个闪耀瞬间-Team Z,43
 ---
 > 别称：禅
 

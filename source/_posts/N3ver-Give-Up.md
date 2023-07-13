@@ -1,7 +1,7 @@
 abbrlink: 5027
 title: N3ver Give Up
 tags:
-  - 第一人称,42
+  - 第1人称,42
 ---
 |      |(粤语版)|      |
 |--|--|--|

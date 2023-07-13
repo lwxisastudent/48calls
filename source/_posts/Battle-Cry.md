@@ -5,6 +5,7 @@ tags:
   - UNIVERSE,53
   - Miss Camellia 成长,21
   - 他们所不知道的Team Z,26
+  - 十八个闪耀瞬间-Team G,27
 ---
 |      |(变奏后2.5个八拍)Haiseno<br>Myo-hontusuke Kasen Tobi Jyo-kyo<br>Jya-jya Faibo Waipa<br>U'Oi U'Oi U'Oi U'Oi<br>A~Jya-jya<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya<br>ToraHi JinzouSeni AmaShindouKasen(二倍)|      |
 |--|--|--|

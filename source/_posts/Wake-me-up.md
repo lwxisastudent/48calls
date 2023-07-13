@@ -1,7 +1,7 @@
 abbrlink: 20471
 title: Wake me up
 tags:
-  - 第一人称,11
+  - 第1人称,11
 ---
 |      |U'Oi U'Oi U'Oi U'Oi<br>A~yosshaikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya|
 |--|--|

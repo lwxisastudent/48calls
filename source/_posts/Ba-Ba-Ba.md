@@ -1,7 +1,8 @@
 abbrlink: 15973
 title: Ba Ba Ba
 tags:
-  - 第一人称,34
+  - 第1人称,34
+  - 十八个闪耀瞬间-Team NIII,12
 ---
 |      |Litai Kotoga aru nda yo<br>yappari OOO wa kawaii yo<br>suki suki daisuki yappa suki<br>Five Foue Three Two One Go<br>U' Oi U'Oi U'Oi U'Oi<br>A~yossha ikuzo<br>Taiga Faiya Saiba Faiba Daiba Baiba Jya-jya|
 |--|--|

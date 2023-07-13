@@ -3,8 +3,9 @@ title: DU-DU BABY
 tags:
   - EP_SNH48
   - 他们所不知道的Team NIII,25
+  - 十八个闪耀瞬间-Team G,32-SOSO BABY
 ---
-> 别称：DUDUBABY
+> 别称：DUDUBABY、SOSO BABY
 
 |(NIII版歌词Du改为霏)|(从头)Taiga Faiya TaigaFaiyaSaiba<br>Saiba Baiba SaibaBaibaDaiba<br>Daiba Baiba DaibaBaibaJya-jya<br>Jya-jya Jya-jya JyajyaFaiboWaipa<br>Taiga Faiya Saiba Faiba Daiba Baiba Jyajya|
 |--|--|

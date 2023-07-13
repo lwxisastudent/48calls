@@ -1,7 +1,7 @@
 abbrlink: 24798
 title: Mario My Love
 tags:
-  - 第一人称,25
+  - 第1人称,25
 ---
 |      |
 |--|
