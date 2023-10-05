@@ -3,7 +3,7 @@
 <% if(stage_forname(page.tag)) { %>
 <ruby><%- page.tag %><rp>(</rp><rt><%- stage_forname(page.tag)[0]+' '+stage_forname(page.tag)[1] %></rt><rp>)</rp></ruby>
 <% } else {%>
-<%- page.tag %>
+<%- stage_transname(page.tag) %>
 <% } %>
 </h1>
 
