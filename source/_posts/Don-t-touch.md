@@ -2,6 +2,7 @@ abbrlink: 24434
 title: Don't touch
 tags:
   - 专属派对,24
+  - 专属派对_CKG,22
   - 十八个闪耀瞬间-Team G,21
 ---
 |      |      |
@@ -40,7 +41,7 @@ tags:
 |这气氛会让你神魂颠倒 爱上谁|      |
 |na na na na|      |
 |欲望的双手需用这拥抱 要我的美|      |
-|baby baby|      |
+|baby baby|baby baby|
 |若即若离的心开始燃烧 你别后退|      |
 |You can say my name|      |
 |You can say my name But Don't touch my body|      |

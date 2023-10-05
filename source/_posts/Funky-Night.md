@@ -2,6 +2,7 @@ abbrlink: 34558
 title: Funky Night
 tags:
   - 专属派对,31
+  - 专属派对_CKG,32
   - 启程：Team Z,41
 ---
 |      |Taiga Faiya TaigaFaiyaSaiba<br>Saiba Baiba SaibaBaibaDaiba<br>Daiba Baiba DaibaBaibaJya-jya<br>Jya-jya Jya-jya JyajyaFaiboWaipa|
@@ -52,4 +53,4 @@ tags:
 |全场观众跟着放克节拍|      |
 |魔幻舞步让我有一点崇拜|      |
 |跟着节奏来到这funky night|      |
-|      |P-PPP-P Ba-mosu<br>Tigure Fego Shiberu Fibura<br>Buzo Biburaru Herusei Bora-re<br>Rinpiaparaburisasu|
+|      |P-PPP-P Ba-mosu<br>Tigure Fego Shiberu Fibura<br>Buzo Biburaru Herusei Bora-re<br>Rinpiaparaburisasu<br>【或】(渣男mix)吃了没 早点睡 今天开了一天会<br>多穿点 喝热水 忙了一天我很累<br>这个东西有点贵 那个女孩是我妹<br>你很好 我不配 忘了我吧下一位<br>渣~男|

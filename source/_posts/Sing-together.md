@@ -2,10 +2,10 @@
 title: Sing together
 tags:
   - 遗忘的国度,12
-  - 遗忘的国度_CGT,12-Sing together(concerto)
+  - 遗忘的国度_CGT,12-Sing together（concerto）
 abbrlink: 54357
 ---
-> 别称：Sing together(concerto)
+> 别称：Sing together（concerto）
 
 |(开始两拍一个鼓点后再过1个八拍有音乐开始)【第一段前奏：4个八拍，CGT版无】|pan pan pan pan pokemon pan<br>furesshu bureddo ito pan<br>matsutakoko matsutakoko<br>yamazaki haruno panmatsuri|Hajimaruyo Hajimaruyo<br>Myo-hontusuke ga-Hajimaruyo<br>Myo-hontusuke Kasen Tobi Jyokyo<br>Jyajya Faibo Waipa|【CGT版call】<br>前奏（不喊）、间奏2不同，口哨间奏无|
 |--|--|--|--|
