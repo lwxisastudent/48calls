@@ -45,3 +45,12 @@ title: core更新日志
 
 1. Valine(基于Linecloud)评论----(cactus)layout/_partial/comments.ejs, source/css/_partial/comments.styl
 2. 移动设备歌词显示优化
+3. 顶栏推荐歌曲/\$lucky choice\$等功能----(cactus)layout/_partial/header.ejs
+
+## alpha8.1 (230713)
+
+1. 十八闪主页彩虹显示----lib/plugins/helper/tagcloud.js
+
+## alpha8.2 (231012)
+
+1. 优化搜索----(cactus)source/js/search.js
