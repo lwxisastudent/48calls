@@ -25,22 +25,74 @@
 var searchFunc = function(path, searchId, contentId) {
 
   function stripHtml(html) {
-    html = html.replace(/<style([\s\S]*?)<\/style>/gi, "");
-    html = html.replace(/<script([\s\S]*?)<\/script>/gi, "");
-    html = html.replace(/<figure([\s\S]*?)<\/figure>/gi, "");
+    var tagsToRemove = ["style", "script", "figure"];
+    tagsToRemove.forEach(function(tag) {
+      var regex = new RegExp("<" + tag + "[\\s\\S]*?<\\/" + tag + ">", "gi");
+      html = html.replace(regex, "");
+    });
+
     html = html.replace(/<\/div>/ig, "\n");
     html = html.replace(/<\/li>/ig, "\n");
     html = html.replace(/<li>/ig, "  *  ");
     html = html.replace(/<\/ul>/ig, "\n");
     html = html.replace(/<\/p>/ig, "\n");
     html = html.replace(/<br\s*[\/]?>/gi, "\n");
-    
-    html = html.replace('</blockquote>','别称')
+    html = html.replace('</blockquote>', '别称');
+
+    var tableRegex = /<table[^>]*>([\s\S]*?)<\/table>/gi;
+    var tables = html.match(tableRegex);
+
+    if (tables) {
+      tables.forEach(function (table) {
+        var trRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+        var columns = table.match(trRegex);
+
+        if (columns) {
+          var rowData = [];
+
+          columns.forEach(function (column) {
+            var tdRegex = /<td[^>]*>([\s\S]*?)<\/td>/gi;
+            var cells = column.match(tdRegex);
+            if (cells) {
+              cells.forEach(function (cell, i) {
+                if (!rowData[i]) {
+                  rowData[i] = [];
+                }
+                var cellText = cell.replace(/<[^>]+>/g, "");
+                rowData[i].push(cellText.trim());
+              });
+            }
+          });
+
+          var tableData = [];
+          rowData.forEach(function (rowDatum) {
+            var rowText = rowDatum.join("\n");
+            if (!containsBlockedKeywords(rowText.toLowerCase())) {
+              tableData.push(rowText);
+            }
+          });
+
+          html = html.replace(table, tableData.join("\n"));
+        }
+      });
+    }
+
     html = html.replace(/<[^>]+>/ig, "");
-    
     html = html.replace("△", "");
-    html = html.replace("⚪" ,"");
+    html = html.replace("⚪", "");
+
     return html;
+  }
+
+  function containsBlockedKeywords(text) {
+    var blockedKeywords = ["tora", "u'oi", "taiga", "jya", "ooo", "kawaii"];
+    var found = false;
+    blockedKeywords.forEach(function (keyword) {
+      if (text.includes(keyword)) {
+        found = true;
+      }
+    });
+    return found;
   }
 
   function getAllCombinations(keywords) {
@@ -87,16 +139,16 @@ var searchFunc = function(path, searchId, contentId) {
           if (!data.title || data.title.trim() === "") {
             data.title = "冇名";
           }
-          var dataTitleOrigin = data.title.trim().toLowerCase();
+          var dataTitleOrigin = data.title.trim();
           var dataTitle = [dataTitleOrigin];
-          var dataContent = stripHtml(data.content.trim()).toLowerCase();
+          var dataContent = stripHtml(data.content.trim());
           
-          let i = dataContent.indexOf('别称：')
+          let i = dataContent.indexOf('别称：');
           if(i!=-1){
-              let j = dataContent.indexOf('别称',i+1)
+              let j = dataContent.indexOf('别称',i+1);
               if(j!=-1){
-                  dataTitle.push(...dataContent.substring(i+3,j).split('、'))
-                  dataContent = dataContent.substring(j+2)
+                  dataTitle.push(...dataContent.substring(i+3,j).split('、'));
+                  dataContent = dataContent.substring(j+2);
               }
           }
           
@@ -114,7 +166,7 @@ var searchFunc = function(path, searchId, contentId) {
                 dataTitle.forEach((title) => {
                 
                     let indexTitle = -1;
-                      indexTitle = title.indexOf(keyword);
+                      indexTitle = title.toLowerCase().indexOf(keyword.toLowerCase());
                       if(indexTitle >= 0){
                           titleoccur = title;
                         throw new Error("match_title");
@@ -123,7 +175,7 @@ var searchFunc = function(path, searchId, contentId) {
                 })
                 
                 //匹配歌词
-              indexContent = dataContent.indexOf(keyword);
+              indexContent = dataContent.toLowerCase().indexOf(keyword.toLowerCase());
               
               if(indexContent >= 0 ){
                 matches+=1;
