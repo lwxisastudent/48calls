@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "5.4.2"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
