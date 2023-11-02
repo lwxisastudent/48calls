@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "6.3.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
@@ -24,7 +24,6 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-table-column-hide": "1.0.0",
     "hexo-theme-landscape": "^0.0.3"
   }
 }

@@ -11,9 +11,8 @@
 
 ## 利用源码建立一个自己的分享平台
 
-- 此平台由hexo+cactus(theme)魔改而成
-- 【JS-hexo】公演分类功能利用hexo的tag，新增了获取对应tag首演日期和队伍颜色的方法，生成表格归纳的方法
-- 【HTML-cactus】用表格方式显示歌词和call本，优化了表格显示样式
+- 此平台基于hexo搭建
+- 此平台基于魔改的cactus主题搭建，原主题：[probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
 
 **1. 安装hexo**
 
